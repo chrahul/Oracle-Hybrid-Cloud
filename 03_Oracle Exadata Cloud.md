@@ -3,6 +3,9 @@
 
 # **Oracle Exadata Cloud\@Customer**
 
+<img width="353" height="226" alt="image" src="https://github.com/user-attachments/assets/4c32641e-7116-47c4-a39d-8d53f2315205" />
+
+
 ### **The Power of Cloud, Delivered On-Premises**
 
 ## **Introduction: Bridging the Gap Between Cloud Agility and On-Premises Control**
